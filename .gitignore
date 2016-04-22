@@ -1,0 +1,10 @@
+*.zip
+*.jar
+
+tmp/*
+
+manifest.mf
+nbbuild.xml
+build/*
+dist/*
+nbproject/*
